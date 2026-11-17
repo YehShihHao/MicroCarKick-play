@@ -1,0 +1,11 @@
+{
+  "name": "飆速足球 Micro Car Kick",
+  "short_name": "飆速足球",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#14110f",
+  "theme_color": "#14110f",
+  "icons": [{ "src": "assets/logo_emblem.png", "sizes": "640x522", "type": "image/png" }]
+}
