@@ -1,2 +1,23 @@
-# MicroCarKick-play
-Micro Car Kick 飆速足球 — playtest build (static web game)
+# 飆速足球 Micro Car Kick — 試玩版
+
+**▶ 開始玩：https://yehshihhao.github.io/MicroCarKick-play/**
+
+開一台廢土改裝的遙控小車，把足球撞進對方球門！這是開發中的 **M1 單機試玩版**：可以對 AI（三種難度）或兩人用同一台電腦對戰。
+
+- 建議用電腦的 Chrome / Edge，鍵盤操作；手機也能玩（左半邊蘑菇頭開車、右下 Boost / 武器）
+- 不用註冊、不用安裝、不蒐集資料；車庫配裝只存在你的瀏覽器裡
+
+| 動作 | 玩家 1 | 玩家 2 |
+|---|---|---|
+| 油門 / 倒車 | W / S | ↑ / ↓ |
+| 轉向 | A / D | ← / → |
+| Boost | 左 Shift | 右 Shift 或 / |
+| 武器 | Space | Enter 或 . |
+| 暫停 | Esc | Esc |
+
+先進 5 球獲勝；5 分鐘到分數多者勝，平手打黃金進球。被進球而落後或平手時，可以選一張改裝零件卡翻盤。
+
+---
+
+這個倉庫只放建置好的網頁檔案。遊戲原始碼另外維護。
+圖像素材為 AI 生成（Artlist、Hugging Face FLUX.1 Krea），僅供測試使用。
